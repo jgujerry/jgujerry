@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm Jerry J. Gu, a developer with abroad of interests and skillset in data, web, GIS, cloud, and AI development...
 
 <p align="left">
-  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
   <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
-  <img alt='git' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
 </p>
