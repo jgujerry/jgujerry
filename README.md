@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Jerry J. Gu, a Python developer having broad interests in the development of data, web, GIS, cloud, and AI...
 
+Glad to have chance to connect with you!
+
 <p align="left">
   <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
